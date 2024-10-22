@@ -37,3 +37,5 @@ Snyk es una plataforma que permite detectar y corregir vulnerabilidades en las d
 Snyk se puede integrar con GitHub Actions para ejecutar escaneos de seguridad automáticamente durante el ciclo de desarrollo, lo que asegura que cualquier vulnerabilidad en las dependencias se identifique antes de fusionar cambios al código principal.
 <br>
 <br>
+
+Aqui te propirciono un laboratorio para conocer mas detalles de la integración de Snyk con Github Actions: [AQUI](./laboratorio-snyk.md).
