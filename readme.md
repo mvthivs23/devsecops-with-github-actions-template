@@ -39,3 +39,39 @@ Snyk se puede integrar con GitHub Actions para ejecutar escaneos de seguridad au
 <br>
 
 Aqui te propirciono un laboratorio para conocer mas detalles de la integración de Snyk con Github Actions: [AQUI](./laboratorio-snyk.md).
+
+
+
+<br>
+<br>
+
+## SonarCloud 
+<br>
+
+![image](https://github.com/user-attachments/assets/43afe73d-9a94-41e8-ae1b-4d8c24360b9e)
+
+<br>
+
+
+SonarCloud es una herramienta de análisis estático que ayuda a medir y mantener la calidad del código mediante la identificación de errores, vulnerabilidades de seguridad, deuda técnica y duplicaciones de código. Es una solución en la nube basada en SonarQube y se integra fácilmente en flujos de CI/CD.
+<br>
+<br>
+### Funcionalidades clave de SonarCloud:
+<br>
+* Análisis de Calidad del Código: Proporciona métricas sobre la mantenibilidad, confiabilidad y seguridad del código.
+* Detección de Vulnerabilidades de Seguridad: Identifica fallas que podrían comprometer la seguridad de la aplicación.
+* Métrica de Cobertura de Pruebas: Informa sobre el porcentaje de cobertura de pruebas unitarias.
+* Informe de Duplicación de Código: Detecta y reporta la duplicación de segmentos de código que podrían indicar mala calidad.
+* Soporte Multilenguaje: Soporta múltiples lenguajes de programación como Java, JavaScript, Python, C++, entre otros.
+<br>
+
+### Integración con GitHub Actions:
+<br>
+SonarCloud puede integrarse con GitHub Actions para realizar análisis automáticos de calidad y seguridad en cada commit o pull request. Esto permite verificar continuamente el estado de la calidad del código y prevenir la introducción de nuevas vulnerabilidades o problemas técnicos.
+
+<br>
+<br>
+
+Aqui te propirciono un laboratorio para conocer mas detalles de la integración de SonarCloud con Github Actions: [AQUI](./laboratorio-sonarcloud.md).
+
+<br>
