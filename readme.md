@@ -57,7 +57,7 @@ SonarCloud es una herramienta de análisis estático que ayuda a medir y mantene
 <br>
 <br>
 ### Funcionalidades clave de SonarCloud:
-<br>
+
 * Análisis de Calidad del Código: Proporciona métricas sobre la mantenibilidad, confiabilidad y seguridad del código.
 * Detección de Vulnerabilidades de Seguridad: Identifica fallas que podrían comprometer la seguridad de la aplicación.
 * Métrica de Cobertura de Pruebas: Informa sobre el porcentaje de cobertura de pruebas unitarias.
